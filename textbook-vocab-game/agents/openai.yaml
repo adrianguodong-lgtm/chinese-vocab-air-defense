@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文词汇识记游戏——防空战（词汇可替换）"
+  short_description: "上传词汇截图和可选录音，替换词汇及发音，生成四关单文件防空战游戏"
+  default_prompt: "使用 $textbook-vocab-game，根据我上传的词汇表截图和录音生成新的中文词汇识记游戏；没有录音时使用系统中文发音。"
